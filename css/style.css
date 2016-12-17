@@ -1,13 +1,79 @@
-@charset "UTF-8";
-/* CSS Document */
+@charset "UTF-8"; /* CSS Document */
 
 html {
-	
-
 }
 
 body{
 	background-color:#F4F4F4;
 	color:#2B2B2B;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 }
+
+
+
+@media (min-width:475px) {
+	
+	.container {
+		max-width:440px;
+		padding-left:0;
+	}
+}
+
+@media (min-width:992px) {
+	
+	.container {
+		max-width:1000px;
+		padding-left:0;
+	}
+}
+
+
+/* nav bar */
+
+.nav > li.current a{
+	color:#54BD82;
+} 
+
+/*
+.nav > li > a {
+	padding-right:0px;
+} */
+
+.navbar-brand {
+	font-weight:600;
+}
+
+.navbar {
+	border-bottom-width:0px;
+	background-color:#F4F4F4;
+	padding-top:2rem;
+}
+
+@media (min-width:768px) {  /* ugh here, just tryna make the menu nicer */
+	.navbar{
+		align-content: center;
+	}
+	
+	
+}
+
+
+/* end nav bar */
+
+/* home body hah*/
+
+.thumbnail{
+	background-color:#F4F4F4;
+	border:0;
+	padding:0;
+}
+
+.thumbnail .caption {
+	padding:0;
+}
+
+
+
+/* end home body hah*/
+
+
