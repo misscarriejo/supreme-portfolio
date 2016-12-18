@@ -9,6 +9,15 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
+a {
+	color:#2B2B2B
+}
+
+a:hover {
+	color:#54BD82;
+	text-decoration:none;
+}
+
 
 
 @media (min-width:475px) {
@@ -30,28 +39,48 @@ body{
 
 /* nav bar */
 
-.nav > li.current a{
-	color:#54BD82;
-} 
-
-/*
-.nav > li > a {
-	padding-right:0px;
-} */
-
-.navbar-brand {
-	font-weight:600;
+.logo {
+	font-weight:300;
+	text-transform:uppercase;
+	font-size:2.5rem;
+	letter-spacing:1px;
 }
 
 .navbar {
 	border-bottom-width:0px;
 	background-color:#F4F4F4;
 	padding-top:2rem;
+	text-align: center;
 }
 
+.navbar ul {
+	list-style:none;
+	padding-top:1rem;
+	padding-left:0;
+}
+
+.navbar ul li {
+	display:inline;
+	padding: 1rem;
+}
+
+.navbar ul li.current a{
+	color:#54BD82;
+} 
+
+
+
 @media (min-width:768px) {  /* ugh here, just tryna make the menu nicer */
-	.navbar{
-		align-content: center;
+	.navbar ul{
+		text-align: right;
+	}
+	
+	.navbar ul li {
+		padding-right:0;
+	}
+	
+	.logo {
+		float:left;
 	}
 	
 	
