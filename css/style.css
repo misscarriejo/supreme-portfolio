@@ -123,10 +123,14 @@ p {
 	padding-top: 0rem;
 }
 
-
 .push-bottom{
 	padding-bottom: 6rem;
 }
+
+.blurb {
+	color:#95989A;
+}
+
 
 /* end home body*/
 
