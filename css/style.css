@@ -208,6 +208,14 @@ a.about:hover, a.about:active, a.about:focus {
 	font-size:1.2rem;
 }
 
+p.date > a {
+	text-decoration: underline;
+}
+
+p.date > a:hover, p.date > a:active, p.date > a:focus {
+		color:#54BD82;
+}
+
 h6 {
 	font-size:1.4rem;
 	padding-top:2rem;
@@ -217,6 +225,20 @@ h6 {
 
 
 /* end about */
+
+/* project */
+
+.proj-caption{
+	padding-top:1rem;
+	font-size:1.2rem;
+}
+
+h2 {
+	font-weight:300;
+	font-size:2.1rem;
+}
+
+/* end project */
 
 /* footer */
 .bar {
