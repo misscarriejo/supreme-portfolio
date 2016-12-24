@@ -101,7 +101,7 @@ a:hover, a:active, a:focus {
 
 h3{
 	margin-bottom:.4rem;
-	font-size:2rem;
+	font-size:1.9rem;
 	font-weight:300;
 	text-transform:uppercase;
 	letter-spacing:1px;
@@ -129,6 +129,7 @@ p {
 
 .blurb {
 	color:#95989A;
+	font-size:1.2rem;
 }
 
 
