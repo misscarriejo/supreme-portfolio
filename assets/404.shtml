@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE-edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="404: File Not Found.">
+		
+		<link rel="icon" href="../img/favicon.ico">
+		
+		<title>File Not Found | Carrie Ambo</title>
+		
+		<link href="../css/bootstrap.css" rel="stylesheet">
+		<link href="../css/style.css" rel="stylesheet">
+		
+		<script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+		
+		<script src="../js/bootstrap.js"></script>
+		<script src="../js/custom.js"></script>
+				
+		<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i|Roboto:400,700" rel="stylesheet">
+	
+	</head>
+
+	<body>
+
+										
+<div class="container push-top-40">
+<div class="row">
+ 
+   
+<!-- nav -->
+  <div class="col-sm-3 narrow">
+    <div class="ca-sidebar-nav" role="navigation">
+					<div class="title">
+						<a class="name redlight" href="index.html">Carrie Ambo</a>
+					</div>
+          <ul>	 
+						<li class="ca-sidebar-item"><a href="index.html" class="redlight">Work</a></li>
+            <li class="ca-sidebar-item"><a href="about.html" class="redlight">About</a></li>
+            <li class="ca-sidebar-item"><a href="resume.html" class="redlight">Resume</a></li>
+          </ul>
+    </div>
+  </div>
+  
+  <!-- /nav -->
+  
+  
+  <div class="col-sm-9">
+   
+   <div class="row">
+				
+			<div class="col-sm-12 sorry">
+				<h1>404</h1>
+				<h3>Hmm, nothing here.</h3>
+				<p class="sorry">Sorry about that. Try going <a href="index.html" class="redlight link">home.</a></p>
+			</div>
+
+	
+		</div> <!--/row -->
+   
+      <div class="row">
+					<div class="col-md-4 push-top-60">
+						<p>See the latest on my <a href="https://www.instagram.com/hellocarriejo/" target="_blank" class="redlight link">Instagram</a></p>
+					</div>
+			 </div><!-- /row  -->
+			 
+			 
+			<div class="row">		
+					
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BVvqKQNlRzw" target="_blank"><img class="img-responsive" src="../img/insta-14.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+						
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BVbSU5XFZ3h" target="_blank"><img class="img-responsive" src="../img/insta-13.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BS7Q9McFUnZ" target="_blank"><img class="img-responsive" src="../img/insta-12.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+		
+		
+  	</div> <!-- /row-->
+  	
+  	<div class="row push-top-20">		
+					
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BVvqKQNlRzw" target="_blank"><img class="img-responsive" src="../img/insta-11.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+						
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BVbSU5XFZ3h" target="_blank"><img class="img-responsive" src="../img/insta-10.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+				
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BS7Q9McFUnZ" target="_blank"><img class="img-responsive" src="../img/insta-13.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+		
+		
+  	</div> <!-- /row-->
+    
+  </div> <!-- col sm 9 (content) -->
+</div> <!-- /row -->
+
+</div> <!-- container -->
+
+						
+				
+    
+    <div> <!--footer -->
+			<div class="container">
+				<div class="row push-top-60">
+
+					<div class="col-sm-3 narrow">
+							<div class="bar-short"></div>
+							<div class="footer-left">
+								<a href="https://www.instagram.com/hellocarriejo/" target="_blank"><img class="social" src="../img/social-instagram.png"></a>
+								<a href="https://twitter.com/carrieambo" target="_blank"><img class="social" src="../img/social-twitter.png"></a>
+								<a href="https://www.linkedin.com/in/carrieambo" target="_blank"><img class="social" src="../img/social-linkedin.png"></a>
+								<a href="https://dribbble.com/carrieambo" target="_blank"><img class="social" src="../img/social-dribbble.png"></a>
+							</div>
+					</div>
+					
+					<div class="col-sm-9">
+						<div class="bar-long"></div>
+						<div class="footer-right push-top">
+							<p>Designed and built by Carrie Ambo &#169; 2017 <img src="../img/seal-40x40.png" class="icon-footer" draggable="false" alt="Japanese seal"></p>
+						</div>
+
+					</div>
+
+				</div>	<!--/row-->
+			</div>	<!--/container -->
+		</div> <!--/footer -->
+		
+		
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-90255814-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
+			
+	</body>
+</html>
