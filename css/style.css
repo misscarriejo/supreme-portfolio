@@ -423,6 +423,11 @@ a.project-title:hover {
 	font-size:.75rem;
 }
 
+.project-caption {
+	font-family:'Roboto', sans-serif;
+	font-size:.75rem;
+}
+
 .prev-next {
 	font-size:.75rem;
 	font-family:'Roboto', sans-serif;
