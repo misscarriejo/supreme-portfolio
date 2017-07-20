@@ -67,6 +67,12 @@
 			 
 			 
 			<div class="row">		
+								
+				<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BWx02aQFmjA" target="_blank"><img class="img-responsive" src="img/insta-16.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
 					
 					<div class="col-md-4">
 						<div class="hovereffect push-bottom">
@@ -80,17 +86,17 @@
 						</div>
 					</div>
 				
+		
+  	</div> <!-- /row-->
+  	
+  	<div class="row push-top-20">		
+					
 					<div class="col-md-4">
 						<div class="hovereffect push-bottom">
 							<a href="https://www.instagram.com/p/BVbSU5XFZ3h" target="_blank"><img class="img-responsive" src="img/insta-13.jpg" alt="hellocarriejo on Instagram"></a>
 						</div>
 					</div>
 		
-		
-  	</div> <!-- /row-->
-  	
-  	<div class="row push-top-20">		
-					
 					<div class="col-md-4">
 						<div class="hovereffect push-bottom">
 							<a href="https://www.instagram.com/p/BS7Q9McFUnZ" target="_blank"><img class="img-responsive" src="img/insta-12.jpg" alt="hellocarriejo on Instagram"></a>
@@ -103,12 +109,6 @@
 						</div>
 					</div>
 				
-					<div class="col-md-4">
-						<div class="hovereffect push-bottom">
-							<a href="https://www.instagram.com/p/BSkZTy5FLA" target="_blank"><img class="img-responsive" src="img/insta-10.jpg" alt="hellocarriejo on Instagram"></a>
-						</div>
-					</div>
-		
 		
   	</div> <!-- /row-->
     
