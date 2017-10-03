@@ -65,14 +65,31 @@
 					</div>
 			 </div><!-- /row  -->
 			 
-			 
-			<div class="row">	
-								
-				<div class="col-md-4">
-					<div class="hovereffect push-bottom">
-						<a href="https://www.instagram.com/p/BYKE3OSlWXx" target="_blank"><img class="img-responsive" src="img/insta-17.jpg" alt="hellocarriejo on Instagram"></a>
+			 			 
+			<div class="row">		
+					
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BZxD5bildTQ" target="_blank"><img class="img-responsive" src="img/insta-19.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
 					</div>
-				</div>
+					
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BZpR_SbFs3-" target="_blank"><img class="img-responsive" src="img/insta-18.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+					
+					<div class="col-md-4">
+						<div class="hovereffect push-bottom">
+							<a href="https://www.instagram.com/p/BYKE3OSlWXx" target="_blank"><img class="img-responsive" src="img/insta-17.jpg" alt="hellocarriejo on Instagram"></a>
+						</div>
+					</div>
+
+  		</div> <!-- /row-->
+			 
+			 
+			<div class="row push-top-20">	
 								
 				<div class="col-md-4">
 						<div class="hovereffect push-bottom">
@@ -85,29 +102,13 @@
 							<a href="https://www.instagram.com/p/BVvqKQNlRzw" target="_blank"><img class="img-responsive" src="img/insta-15.jpg" alt="hellocarriejo on Instagram"></a>
 						</div>
 					</div>
-
-  	</div> <!-- /row-->
-  	
-  	<div class="row push-top-20">		
-								
+													
 					<div class="col-md-4">
 						<div class="hovereffect push-bottom">
 							<a href="https://www.instagram.com/p/BVnGz2tlK0G" target="_blank"><img class="img-responsive" src="img/insta-14.jpg" alt="hellocarriejo on Instagram"></a>
 						</div>
 					</div>
 					
-					<div class="col-md-4">
-						<div class="hovereffect push-bottom">
-							<a href="https://www.instagram.com/p/BVbSU5XFZ3h" target="_blank"><img class="img-responsive" src="img/insta-13.jpg" alt="hellocarriejo on Instagram"></a>
-						</div>
-					</div>
-		
-					<div class="col-md-4">
-						<div class="hovereffect push-bottom">
-							<a href="https://www.instagram.com/p/BS7Q9McFUnZ" target="_blank"><img class="img-responsive" src="img/insta-12.jpg" alt="hellocarriejo on Instagram"></a>
-						</div>
-					</div>
-		
   	</div> <!-- /row-->
     
   </div> <!-- col sm 9 (content) -->
