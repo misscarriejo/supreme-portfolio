@@ -82,7 +82,7 @@ h4 { /* used on resume page*/
     background-size: 80% 100%; /* on click, it contracts a tiny bit*/
 }
 
-.redlight:visited {
+.redlight:visited, .redlight:focus {
 	text-decoration: none;
 }
 
@@ -90,7 +90,7 @@ h4 { /* used on resume page*/
 	color:#C62126;
 }
 
-a.link:visited {
+a.link:visited, a.link:focus{
 	color:#C62126;
 	text-decoration:none;
 }
@@ -145,7 +145,7 @@ a.link:active {
 	font-size:1.125rem;
 }
 
-a.project-title:hover {
+a.project-title:hover, a.project-title:focus {
 	color:#2B2B2B;
 }
 
@@ -198,6 +198,10 @@ a.project-title:hover {
 
 
 /* pushes */
+.push-top-4 {
+	padding-top:4px;
+}
+
 .push-top-10 {
 	padding-top:10px;
 }
@@ -237,6 +241,24 @@ a.project-title:hover {
 /* end pushes */
 
 
+/* CA list at the bottom of projects */
+.project-list-bottom ul {
+	list-style:none;
+	font-size:1rem;
+	line-height:2rem;
+	text-align: center;
+	padding-top:.8rem;
+	padding-left:0;	
+}
+
+.project-list-bottom ul li {
+	padding-bottom:.5rem;
+	display: inline;
+	padding-right:2rem;
+}
+/* END A list at the bottom of projects */
+
+
 /* CA side bar */
 .ca-sidebar-nav ul {
 	list-style:none;
@@ -245,7 +267,6 @@ a.project-title:hover {
 	text-align: center;
 	padding-top:10px;
 	padding-left:0;	
-
 }
 
 .ca-sidebar-nav ul li {
@@ -254,12 +275,17 @@ a.project-title:hover {
 	padding-right:10px;
 }
 
+
 .ca-sidebar-item a {
 	color: #95989A; 
 }
 
 .ca-sidebar-item a:hover{
 	color:#2B2B2B;
+}
+
+.ca-sidebar-item a:visited {
+	color: #95989A; 
 }
 
 .title {
@@ -417,11 +443,21 @@ a.project-title:hover {
 	font-size:1.2rem;
 }
 
-.project-role {
+.project-role-category {
 	font-family:'Roboto', sans-serif;
 	text-transform:uppercase;
 	letter-spacing:.5px;
 	font-size:.75rem;
+	margin-bottom:.1rem;
+	margin-top:1rem;
+}
+
+.project-role-info {
+	font-family:'Crimson Text', serif;
+	text-transform:none;
+	font-size:1.25rem;
+	line-height:1.4rem;
+	font-style:italic;
 }
 
 .project-caption {
