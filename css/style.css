@@ -84,6 +84,7 @@ h4 { /* used on resume page*/
 
 .redlight:visited, .redlight:focus {
 	text-decoration: none;
+
 }
 
 .link { /* turns links red in color*/
@@ -284,9 +285,9 @@ a.project-title:hover, a.project-title:focus {
 	color:#2B2B2B;
 }
 
-.ca-sidebar-item a:visited {
+/*.ca-sidebar-item a:visited {
 	color: #95989A; 
-}
+}*/
 
 .title {
 	display:block;
