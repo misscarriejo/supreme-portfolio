@@ -444,6 +444,24 @@ a.project-title:hover, a.project-title:focus {
 	font-size:1.2rem;
 }
 
+.project-text-list {
+	font-family:'Roboto', sans-serif;
+	font-size:1rem;
+	list-style:none;
+	line-height:1.5rem;
+	padding-top:0rem;
+	padding-bottom:1rem;
+}
+
+
+.project-text-list li::before {
+  content: "\FE62";  /* unicode plus */
+  color: #95989A; 
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1.4rem; 
+  margin-left: -1.5rem; 
+}
+
 .project-role-category {
 	font-family:'Roboto', sans-serif;
 	text-transform:uppercase;
