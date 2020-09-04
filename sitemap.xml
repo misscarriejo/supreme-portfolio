@@ -8,73 +8,93 @@
 
 
 <url>
-  <loc>http://carrieambo.com/</loc>
-  <lastmod>2020-01-26T04:52:46+00:00</lastmod>
+  <loc>http://www.carrieambo.com/</loc>
+  <lastmod>2020-09-04T21:11:17+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/about.html</loc>
-  <lastmod>2020-01-26T04:52:46+00:00</lastmod>
+  <loc>http://www.carrieambo.com/about.html</loc>
+  <lastmod>2020-09-04T21:17:33+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/resume.html</loc>
+  <lastmod>2020-09-04T21:17:33+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/giphy.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/resume.html</loc>
-  <lastmod>2020-01-26T04:52:46+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/city-year-website.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/forget-me-not.html</loc>
-  <lastmod>2018-01-22T01:46:17+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/la-board-book.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/geo-weight.html</loc>
-  <lastmod>2018-01-22T01:46:21+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/marketo.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/news-events.html</loc>
-  <lastmod>2018-01-22T01:46:40+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/sxsw.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/prambanan.html</loc>
-  <lastmod>2018-01-22T01:46:44+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/virtual-service.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/motion.html</loc>
-  <lastmod>2020-01-26T04:52:46+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/geo-weight.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/monterey.html</loc>
-  <lastmod>2018-01-22T01:46:31+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/graduation.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/summer-infographic.html</loc>
-  <lastmod>2018-01-22T01:46:52+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/dusk.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/boston-beer.html</loc>
-  <lastmod>2020-01-26T04:52:46+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/prambanan.html</loc>
+  <lastmod>2020-09-04T21:14:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/tanked.html</loc>
-  <lastmod>2018-01-22T01:46:58+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/boston-beer.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/zimbabwe.html</loc>
-  <lastmod>2018-01-22T01:47:01+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/cards.html</loc>
+  <lastmod>2020-09-04T21:14:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://carrieambo.com/assets/Ambo-Resume.pdf</loc>
-  <lastmod>2019-10-23T04:47:41+00:00</lastmod>
+  <loc>http://www.carrieambo.com/index.html</loc>
+  <lastmod>2020-09-04T21:11:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/assets/Ambo-Resume.pdf</loc>
+  <lastmod>2020-08-13T06:30:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/assets/prambanan.pdf</loc>
+  <lastmod>2017-07-26T04:17:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
