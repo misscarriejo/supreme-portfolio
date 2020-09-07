@@ -234,6 +234,15 @@ a.project-title:hover, a.project-title:focus {
 	}
 
 	.push-top-20-mobile {
+		padding-top:10px; /* on large screens it disappears  */ 
+}
+	
+}
+
+@media (min-width: 992px) {
+		 
+
+	.push-top-20-mobile {
 		padding-top:0px; /* on large screens it disappears  */ 
 }
 	
