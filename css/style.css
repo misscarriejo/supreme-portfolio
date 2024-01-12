@@ -48,6 +48,7 @@ ul {
 	margin:0;
 	letter-spacing: 0;
 	font-size: 1rem;
+
 }
 
 /* 404 */
@@ -441,18 +442,24 @@ a.project-title:hover, a.project-title:focus {
 	margin-bottom:2px;
 }
 
+
+
 .resume-block {
-	visibility: hidden;
-	height:20px;
-}
+	padding-bottom:1.5rem;
+/*	visibility: hidden;   
+	height:20px;  			no longer hiding text */
+} 
+
+
 
 @media (min-width:768px) {
 	.resume-block {
 		visibility: visible;
-		padding-bottom:16px;
+		
 		height:100%;
 	}
 }
+
 /* end resume page */
 
 /* project pages */
@@ -523,3 +530,20 @@ a.project-title:hover, a.project-title:focus {
 
 
 /* end project pages */
+
+
+/* instagram blocks - hide the fourth on small windows */
+
+.insta-block {
+	visibility: hidden;
+	height:20px;
+}
+
+@media (min-width:1200px) {
+	.insta-block {
+		visibility: visible;
+		padding-bottom:16px;
+		height:100%;
+	}
+}
+/* end instagram blocks */
