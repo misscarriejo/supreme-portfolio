@@ -138,7 +138,6 @@ a.link:active {
 }
 
 
-
 /* end red high light feature */
 
 
@@ -477,13 +476,27 @@ a.project-title:hover, a.project-title:focus {
 	padding-bottom:1rem;
 }
 
-
 .project-text-list li::before {
   content: "\FE62";  /* unicode plus */
   color: #95989A; 
   display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 1.4rem; 
-  margin-left: -1.5rem; 
+  width: 1.4rem;
+  text-transform:uppercase;
+ 	margin-left: -1.5rem; 
+}
+
+.project-subhead {
+	font-family: 'Roboto', sans-serif;
+	color:#2B2B2B;
+	padding-left:.2rem;
+	font-weight:700;
+	font-size:1.1rem;
+	margin-top:1.2rem;
+	margin-bottom:.2rem;
+}
+
+.project-indent {
+	padding-left:1.3rem;
 }
 
 .project-role-category {
