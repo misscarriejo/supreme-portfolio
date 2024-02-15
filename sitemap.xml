@@ -9,92 +9,87 @@
 
 <url>
   <loc>http://www.carrieambo.com/</loc>
-  <lastmod>2022-05-13T09:12:07+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/about.html</loc>
-  <lastmod>2023-04-01T06:58:58+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/resume.html</loc>
-  <lastmod>2023-04-01T06:58:57+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:02+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/annual-report.html</loc>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
+  <priority>0.60</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/projects/giphy.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/city-year-website.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>http://www.carrieambo.com/projects/la-board-book.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/hidden-worlds.html</loc>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
-  <loc>http://www.carrieambo.com/projects/marketo.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/sxsw.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/virtual-service.html</loc>
-  <lastmod>2022-05-13T09:12:55+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/geo-weight.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/graduation.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/dusk.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/prambanan.html</loc>
-  <lastmod>2022-05-13T09:12:54+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/projects/sizzle.html</loc>
-  <lastmod>2022-05-13T09:11:53+00:00</lastmod>
+  <loc>http://www.carrieambo.com/projects/acure.html</loc>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/projects/cards.html</loc>
-  <lastmod>2022-05-13T09:12:53+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/email-marketing.html</loc>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/pearl-jam.html</loc>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/genexa.html</loc>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/artist-workshops.html</loc>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/city-year-website.html</loc>
+  <lastmod>2024-02-15T21:15:26+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/sizzle.html</loc>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>http://www.carrieambo.com/projects/la-board-book.html</loc>
+  <lastmod>2024-02-15T21:15:27+00:00</lastmod>
   <priority>0.60</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/index.html</loc>
-  <lastmod>2022-05-13T09:12:07+00:00</lastmod>
+  <lastmod>2024-02-15T21:15:02+00:00</lastmod>
   <priority>0.55</priority>
 </url>
 <url>
   <loc>http://www.carrieambo.com/assets/Ambo-Resume.pdf</loc>
-  <lastmod>2023-04-01T06:58:22+00:00</lastmod>
-  <priority>0.25</priority>
-</url>
-<url>
-  <loc>http://www.carrieambo.com/assets/prambanan.pdf</loc>
-  <lastmod>2020-09-04T21:37:20+00:00</lastmod>
+  <lastmod>2023-08-26T21:50:44+00:00</lastmod>
   <priority>0.25</priority>
 </url>
 
